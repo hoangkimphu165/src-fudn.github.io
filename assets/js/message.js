@@ -1,3 +1,3 @@
 function MessAlert(){
-  alert("Đây là challenge.....");
+  alert("https://drive.google.com/file/d/1A3547Ho9uZkDbcXXKmbyQjk_dKQMjCvG/view?usp=sharing");
 }

@@ -1,3 +1,4 @@
 function MessAlert(){
-  alert("https://drive.google.com/file/d/1A3547Ho9uZkDbcXXKmbyQjk_dKQMjCvG/view?usp=sharing");
+  alert("Nhấn F12, sau đó vào Tab console để xem nhé!");
+  console.log("Đây là challenge.....");
 }
